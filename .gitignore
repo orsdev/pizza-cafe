@@ -1,0 +1,8 @@
+# misc
+.DS_Store
+.sass-cache
+*.log
+*.map
+fonts/
+css/style.css.map
+css/font-awesome.min.css
