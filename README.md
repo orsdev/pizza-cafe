@@ -4,7 +4,7 @@ PIZZA CAFE
 
 ## About Project
 
-A simple CSS GRD website
+A simple CSS GRID website
 
 ## Built With
 
